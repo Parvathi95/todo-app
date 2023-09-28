@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Alice&family=Cambo&family=Cormorant:ital,wght@1,300;1,400;1,500;1,600&family=Crete+Round:ital@1&family=Dancing+Script:wght@600&family=Domine:wght@600&family=Libre+Baskerville:wght@700&family=Mulish:ital,wght@1,300&family=Open+Sans&family=Outfit:wght@300&family=PT+Serif&family=Playfair+Display:wght@500&family=Roboto+Flex:opsz,wght@8..144,100;8..144,200;8..144,400;8..144,500&family=Volkhov:ital,wght@1,700&family=Vollkorn:ital@1&display=swap');
+
+#home{
+    background-image: url('../images/todo\ image.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    width: 100%;
+}
+
